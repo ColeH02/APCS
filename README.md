@@ -1,2 +1,2 @@
 # APCS
-this is a repositoty for all of the code I will be submitting for this APCS class while under quarantine due to COVID-19
+this is a repositoty for shorter assignments that only involve 1 class
